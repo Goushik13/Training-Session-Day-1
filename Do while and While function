@@ -1,0 +1,42 @@
+PROGRAM 1:
+a = 1;
+do
+while(a++ < = 1)
+while(a++ < = 2);
+while(a++ < = 5);
+printf("%d", a);
+
+PROGRAM 2:
+a=1;
+do
+while(a++ <= 1)
+printf("%d", a);
+
+PROGRAM 3:
+a = 1;
+do;
+while(a++ < = 1)
+printf("%d", a);
+
+PROGRAM 4:
+a = 1;
+do;
+while(a++ <= 1):
+printf("%d", a);
+
+PROGRAM 5:
+do
+while(a++ <=1);
+printf("%d", a);
+
+PROGRAM 6;
+a = 1;
+do;
+while(a++ <= 1)
+while(a++ <= 2)
+printf("%d", a);
+
+
+
+
+
